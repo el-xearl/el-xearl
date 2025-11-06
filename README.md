@@ -22,8 +22,8 @@
 
 ### 🧠 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,robloxstudio,unity,unreal,visualstudio,sql,wakatime,github,python,react,mysql,terminal,p
-
+  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,robloxstudio,unity,unreal,visualstudio,sql,wakatime,github,python,react,mysql,terminal,powershell,canva,androidstudio" />
+</p>
 
 ---
 
