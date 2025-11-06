@@ -36,8 +36,9 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=el-xearl&theme=midnight-purple&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=el-xearl&theme=midnight-purple&hide_border=true" />
 </p>
+
 
 ---
 
