@@ -34,14 +34,6 @@
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=el-xearl&theme=midnight-purple&hide_border=true" />
-</p>
-
-
----
-
 ### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=el-xearl&theme=dracula&no-frame=true&no-bg=false&margin-w=10" />
