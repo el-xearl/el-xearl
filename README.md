@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Serhat Özdamar</h1>
 <h3 align="center">💻 Developer & Creator from Türkiye</h3>
 
