@@ -47,7 +47,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-xearl&theme=dracula" />
 </p>
 
-![Working on Blender](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 
 
 <!--
