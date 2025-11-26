@@ -25,11 +25,11 @@
 
 ---
 
-### ⚙️ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-xearl&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-xearl&layout=default&theme=midnight-purple&hide_border=true&count_private=true" height="165"/>
-</p>
+<!-- GitHub Stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=el-xearl&show_icons=true&theme=dracula&count_private=true" />
+
+<!-- Top Languages -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-xearl&layout=compact&theme=dracula&count_private=true" />
 
 ---
 
