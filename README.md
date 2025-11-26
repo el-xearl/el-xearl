@@ -25,14 +25,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=el-xearl&show_icons=true&theme=dracula&count_private=true" />
-
-<!-- Top Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-xearl&layout=compact&theme=dracula&count_private=true" />
-
----
-
 ### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=el-xearl&theme=dracula&no-frame=true&no-bg=false&margin-w=10" />
@@ -48,7 +40,6 @@
 ---
 
 ### 💡 Notes
-- Most Used Languages artık düzgün görünür ve Python logolu.  
-- Private repolar dahil edilmiştir (`count_private=true`).  
-- Stats ve activity grafikleri GitHub’a göre otomatik güncellenir.  
-
+- Most Used Languages ve Stats kısmı kaldırıldı.  
+- Sadece logolar, aktiviteler ve achievements kaldı.  
+- README tamamen temiz ve sorunsuz görünecek.  
