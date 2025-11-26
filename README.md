@@ -28,7 +28,7 @@
 ### ⚙️ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=el-xearl&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-xearl&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-xearl&layout=default&theme=midnight-purple&hide_border=true&count_private=true" height="165"/>
 </p>
 
 ---
@@ -44,3 +44,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-xearl&theme=dracula" />
 </p>
+
+---
+
+### 💡 Notes
+- Most Used Languages artık düzgün görünür ve Python logolu.  
+- Private repolar dahil edilmiştir (`count_private=true`).  
+- Stats ve activity grafikleri GitHub’a göre otomatik güncellenir.  
+
