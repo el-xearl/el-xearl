@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Serhat Özdamar</h1>
 <h3 align="center">💻 Developer & Creator from Türkiye</h3>
 
@@ -12,18 +11,26 @@
   <a href="https://discord.com/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-<a href="https://wakatime.com/@11bdeb20-2892-4a3e-80c4-3715ab2a93d5" target="_blank">
-  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/>
-</a>
-
+  <a href="https://wakatime.com/@11bdeb20-2892-4a3e-80c4-3715ab2a93d5" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
 ### 🧠 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,robloxstudio,unity,unreal,visualstudio,github,mysql,powershell,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,robloxstudio,unity,unreal,visualstudio,github,mysql,powershell,androidstudio,python" />
 </p>
 
+---
+
+### 🐍 Python Highlights
+- ✅ Data Analysis & Visualization: `pandas`, `numpy`, `matplotlib`, `seaborn`  
+- ✅ Automation & Scripting: Custom scripts to save time  
+- ✅ Web Scraping & APIs: `requests`, `beautifulsoup4`, `fastapi`  
+- ✅ Machine Learning Basics: `scikit-learn`, `tensorflow`  
+- ✅ Game Development & Tools: Python integration with Unreal Engine / Blender  
 
 ---
 
@@ -47,20 +54,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-xearl&theme=dracula" />
 </p>
 
+---
 
+### 🚀 Projects in Python
+| Project | Description | Repo |
+|---------|-------------|------|
+| **Python Note Manager** | Desktop note app with full CRUD, Markdown & theme support | [GitHub](https://github.com/el-xearl/python-note-manager) |
+| **Automation Scripts** | Scripts for data processing and repetitive tasks | [GitHub](https://github.com/el-xearl/python-automation) |
+| **Machine Learning Models** | Beginner ML projects using `scikit-learn` | [GitHub](https://github.com/el-xearl/ml-projects) |
 
+---
 
 <!--
 **el-xearl/el-xearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
