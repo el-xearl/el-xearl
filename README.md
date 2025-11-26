@@ -39,7 +39,3 @@
 
 ---
 
-### 💡 Notes
-- Most Used Languages ve Stats kısmı kaldırıldı.  
-- Sadece logolar, aktiviteler ve achievements kaldı.  
-- README tamamen temiz ve sorunsuz görünecek.  
