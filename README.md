@@ -25,15 +25,6 @@
 
 ---
 
-### 🐍 Python Highlights
-- ✅ Data Analysis & Visualization: `pandas`, `numpy`, `matplotlib`, `seaborn`  
-- ✅ Automation & Scripting: Custom scripts to save time  
-- ✅ Web Scraping & APIs: `requests`, `beautifulsoup4`, `fastapi`  
-- ✅ Machine Learning Basics: `scikit-learn`, `tensorflow`  
-- ✅ Game Development & Tools: Python integration with Unreal Engine / Blender  
-
----
-
 ### ⚙️ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=el-xearl&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="165"/>
@@ -53,18 +44,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-xearl&theme=dracula" />
 </p>
-
----
-
-### 🚀 Projects in Python
-| Project | Description | Repo |
-|---------|-------------|------|
-| **Python Note Manager** | Desktop note app with full CRUD, Markdown & theme support | [GitHub](https://github.com/el-xearl/python-note-manager) |
-| **Automation Scripts** | Scripts for data processing and repetitive tasks | [GitHub](https://github.com/el-xearl/python-automation) |
-| **Machine Learning Models** | Beginner ML projects using `scikit-learn` | [GitHub](https://github.com/el-xearl/ml-projects) |
-
----
-
-<!--
-**el-xearl/el-xearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
