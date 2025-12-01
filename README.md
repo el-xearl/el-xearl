@@ -17,6 +17,9 @@
   <a href="https://gitlab.com/el-xearl" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
+  <a href="https://stackshare.io/esrefozdamar65" target="_blank">
+    <img src="https://img.shields.io/badge/StackShare-1E88E5?style=for-the-badge&logo=stackshare&logoColor=white"/>
+  </a>
 </p>
 
 
