@@ -14,7 +14,11 @@
   <a href="https://wakatime.com/@11bdeb20-2892-4a3e-80c4-3715ab2a93d5" target="_blank">
     <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/>
   </a>
+  <a href="https://gitlab.com/el-xearl" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
