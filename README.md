@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Serhat Özdamar</h1>
-<h3 align="center">💻 Developer & Creator from Türkiye</h3>
-
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/83a1cb87-1e88-49c4-aef0-8feac741852f" />
+ 
 ---
 
 ### 🌐 Connect with me
