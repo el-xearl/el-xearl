@@ -3,11 +3,7 @@
  
 ---
 
-### 🌐 Connect with me<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=el-xearl.el-xearl&"  />
-</div>
-
-###
+### 🌐 Connect with me &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=el-xearl&label=Profile%20Views&color=brightgreen&style=flat" alt="el-xearl" />
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,7 +21,6 @@
     <img src="https://img.shields.io/badge/StackShare-1E88E5?style=for-the-badge&logo=stackshare&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
