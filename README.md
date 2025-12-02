@@ -20,6 +20,9 @@
   <a href="https://stackshare.io/esrefozdamar65" target="_blank">
     <img src="https://img.shields.io/badge/StackShare-1E88E5?style=for-the-badge&logo=stackshare&logoColor=white"/>
   </a>
+ <a href="https://buymeacoffee.com/serhat.ozdamar" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 </p>
 
 ---
