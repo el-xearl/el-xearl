@@ -39,7 +39,10 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/el-xearl/el-xearl/output/snake.svg" alt="snake animation"/>
-</p>
+──────────────────────────────────────────────
 
+$ contact
+
+github.com/el-xearl
+
+──────────────────────────────────────────────
