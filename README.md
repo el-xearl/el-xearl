@@ -35,3 +35,4 @@
   <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,robloxstudio,unity,unreal,visualstudio,github,mysql,python,nodejs,dotnet,powershell,androidstudio,php,lua,ai,asm" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-xearl&show_icons=true&theme=radical)
