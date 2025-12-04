@@ -37,16 +37,9 @@
 
 ---
 
-### 🌌 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-xearl&theme=dracula" />
-</p>
-<br clear="both">
 
-###
 
----
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=el-xearl&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/el-xearl/el-xearl/output/snake.svg" alt="snake animation"/>
 </p>
 
