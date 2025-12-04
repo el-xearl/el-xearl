@@ -30,14 +30,7 @@
 
 ---
 
-
-
-
-
-──────────────────────────────────────────────
-
-$ contact
-
-github.com/el-xearl
-
-──────────────────────────────────────────────
+### 🧠 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,robloxstudio,unity,unreal,visualstudio,github,mysql,python,nodejs,dotnet,powershell,androidstudio,php,lua,ai,asm" />
+</p>
