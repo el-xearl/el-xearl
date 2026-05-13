@@ -30,5 +30,5 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=linux,arduino,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,robloxstudio,unity,unreal,visualstudio,github,mysql,python,nodejs,dotnet,powershell,androidstudio,php,lua,ai,asm" />
+<img src="https://skillicons.dev/icons?i=linux,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,unity,unreal,visualstudio,github,git,mysql,mongodb,firebase,python,nodejs,dotnet,powershell,androidstudio,php,lua,react,vite,postman" />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-xearl&show_icons=true&theme=radical)
