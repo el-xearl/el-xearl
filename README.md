@@ -35,9 +35,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-xearl&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=el-xearl&show_icons=true&theme=tokyonight" />
 </p>
-
 ---
 <p align="center">
   <img src="https://stats.pphat.top/stats?username=el-xearl&theme=tokyonight&avatar_mode=radar" />
