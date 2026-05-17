@@ -38,10 +38,3 @@
 
 ---
 
-    "success": true,
-    "data": {},
-    "timestamp": "2026-05-17T12:00:00Z",
-    "responseTime": "42ms"
-  },
-  "license": "MIT"
-}
