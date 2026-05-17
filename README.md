@@ -35,3 +35,89 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-xearl&show_icons=true&theme=radical)
+
+---
+{
+  "name": "El-Xearl GitHub Stats API",
+  "version": "2.0.0",
+  "description": "Advanced GitHub analytics, developer statistics and dynamic badge generation service",
+  "author": {
+    "name": "Serhat Özdamar",
+    "github": "el-xearl",
+    "linkedin": "https://www.linkedin.com/in/serhat-ozdamar"
+  },
+  "documentation": "/api-docs",
+  "baseUrl": "https://api.elxearl.dev",
+  "status": "online",
+  "features": [
+    "GitHub Profile Statistics",
+    "Repository Analytics",
+    "Contribution Graphs",
+    "Language Usage Analysis",
+    "Dynamic Shields & Badges",
+    "Developer Activity Tracking",
+    "Commit Heatmaps",
+    "WakaTime Integration",
+    "Custom Developer Cards",
+    "Animated SVG Widgets"
+  ],
+  "endpoints": {
+    "stats": {
+      "url": "/stats",
+      "method": "GET",
+      "description": "Returns user GitHub statistics"
+    },
+    "languages": {
+      "url": "/languages",
+      "method": "GET",
+      "description": "Returns most used programming languages"
+    },
+    "repositories": {
+      "url": "/repositories",
+      "method": "GET",
+      "description": "Returns repository analytics"
+    },
+    "graphs": {
+      "url": "/graphs",
+      "method": "GET",
+      "description": "Returns contribution graphs and heatmaps"
+    },
+    "badges": {
+      "url": "/badges",
+      "method": "GET",
+      "description": "Generates dynamic developer badges"
+    },
+    "wakatime": {
+      "url": "/wakatime",
+      "method": "GET",
+      "description": "Returns coding activity statistics"
+    },
+    "developer-card": {
+      "url": "/developer-card",
+      "method": "GET",
+      "description": "Generates animated developer profile cards"
+    },
+    "health": {
+      "url": "/health",
+      "method": "GET",
+      "description": "API health check endpoint"
+    }
+  },
+  "technologies": [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "GitHub API",
+    "GraphQL",
+    "SVG Rendering"
+  ],
+  "responseFormat": {
+    "success": true,
+    "data": {},
+    "timestamp": "2026-05-17T12:00:00Z",
+    "responseTime": "42ms"
+  },
+  "license": "MIT"
+}
