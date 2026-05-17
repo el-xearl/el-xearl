@@ -34,7 +34,9 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-xearl&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=el-xearl&show_icons=true&theme=radical" />
+</p>
 
 ---
 <p align="center">
