@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/el-xearl?template=classic&isocalendar=1&languages=1&followup=1&activity=1&introduction=1&stars=1&achievements=1" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
