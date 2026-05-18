@@ -48,3 +48,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-xearl&theme=react-dark" />
 </p>
+
+
+---
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/el-xearl?template=classic&isocalendar=1&languages=1&followup=1&activity=1&introduction=1&stars=1&achievements=1" />
+</p>
