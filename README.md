@@ -43,6 +43,8 @@
   <img src="https://stats.pphat.top/stats?username=el-xearl&theme=tokyonight&avatar_mode=radar" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-xearl&theme=react-dark" />
 </p>
