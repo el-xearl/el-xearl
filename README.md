@@ -30,7 +30,7 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=linux,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,unity,unreal,visualstudio,github,git,mysql,mongodb,firebase,python,nodejs,dotnet,powershell,androidstudio,php,lua,react,vite,postman,vercel,express,arch" />
+<img src="https://skillicons.dev/icons?i=linux,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,unity,unreal,visualstudio,github,git,mysql,mongodb,firebase,python,nodejs,dotnet,powershell,androidstudio,php,lua,react,vite,postman,vercel,express,arch,typescript" />
 
 ---
 
