@@ -29,7 +29,7 @@
 </p>
 
 ---
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,blender,bootstrap,c,cs,cpp,css,discord,docker,electron,express,firebase,figma,git,github,godot,js,kotlin,java,linux,lua,mongodb,mysql,nextjs,nodejs,obsidian,php,postgres,postman,powershell,prisma,py,react,redis,supabase,tailwind,ts,unreal,unity,vite,vercel,vscode,aws,cloudflare,androidstudio" />
+<img src="https://skillicons.dev/icons?i=linux,debian,blender,bootstrap,c,cs,cpp,css,docker,electron,express,firebase,figma,git,github,godot,js,kotlin,java,lua,mongodb,mysql,nextjs,nodejs,obsidian,php,postgres,postman,powershell,py,react,redis,tailwind,ts,unreal,unity,vite,vercel,vscode,aws,cloudflare,androidstudio" />
 
 ---
 
