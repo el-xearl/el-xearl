@@ -31,6 +31,8 @@
 ---
 <img src="https://skillicons.dev/icons?i=linux,blender,bootstrap,c,cs,cpp,css,discord,electron,godot,js,kotlin,java,linkedin,obsidian,ps,unity,unreal,visualstudio,github,git,mysql,mongodb,firebase,python,nodejs,dotnet,powershell,androidstudio,php,lua,react,vite,postman,vercel,express,docker,typescript,postgres,arch,blackarch" />
 
+<img src="https://img.shields.io/badge/BlackArch-111111?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+
 ---
 
 <p align="center">
